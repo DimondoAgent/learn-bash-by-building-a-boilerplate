@@ -131,3 +131,6 @@ echo hello terminal
 git t
 git status
 git add .
+git status
+git status
+git add .
